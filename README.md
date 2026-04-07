@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @shokanny
-- 🌱 I’m an Electrical Engineering student studying at PolyU
+- ICT Teacher IKTMC
+- 🌱 Electrical Engineering, PolyU
+- 
 
 
 <!---
